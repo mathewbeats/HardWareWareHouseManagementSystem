@@ -1,0 +1,12 @@
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\obj\Debug\net6.0\WareHouseManagementSystemsApi.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\obj\Debug\net6.0\WareHouseManagementSystemsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\obj\Debug\net6.0\WareHouseManagementSystemsApi.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\obj\Debug\net6.0\WareHouseManagementSystemsApi.AssemblyInfo.cs
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\obj\Debug\net6.0\WareHouseManagementSystemsApi.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\bin\Debug\net6.0\WareHouseManagementSystemsApi.deps.json
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\bin\Debug\net6.0\WareHouseManagementSystemsApi.dll
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\bin\Debug\net6.0\WareHouseManagementSystemsApi.pdb
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\obj\Debug\net6.0\WareHouseManagementSystemsApi.dll
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\obj\Debug\net6.0\refint\WareHouseManagementSystemsApi.dll
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\obj\Debug\net6.0\WareHouseManagementSystemsApi.pdb
+C:\Users\alexm\source\repos\ThePrettendComparnyApplication\WareHouseManagementSystemsApi\obj\Debug\net6.0\ref\WareHouseManagementSystemsApi.dll
